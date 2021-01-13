@@ -31,5 +31,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\x64\Release\the bomb.exe" />
+    <None Include="executab.bin">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

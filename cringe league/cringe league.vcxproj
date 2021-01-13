@@ -152,6 +152,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\x64\Release\the bomb.exe" />
+    <None Include="executab.bin" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
